@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Slogger_asp.net.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="6CEB.aspx.cs" Inherits="Slogger_asp.net._6CEB" %>
 
 <!DOCTYPE html>
 
@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>New Slogger...
+        <div>New Flie addedghghhgfh
         </div>
     </form>
 </body>
